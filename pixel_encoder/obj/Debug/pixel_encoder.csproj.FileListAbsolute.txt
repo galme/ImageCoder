@@ -1,0 +1,17 @@
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\bin\Debug\pixel_encoder.exe.config
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.csprojResolveAssemblyReference.cache
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\MainWindow.g.cs
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\App.g.cs
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder_MarkupCompile.cache
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder_MarkupCompile.lref
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\bin\Debug\pixel_encoder.exe
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\bin\Debug\pixel_encoder.pdb
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\MainWindow.baml
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.g.resources
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.Properties.Resources.resources
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.csproj.GenerateResource.Cache
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.exe
+C:\Dropbox\_PROJECTS\pixel_encoder\pixel_encoder\obj\Debug\pixel_encoder.pdb
+C:\Dropbox\_PROJECTS\ImageCoder\pixel_encoder\bin\Debug\pixel_encoder.exe.config
+C:\Dropbox\_PROJECTS\ImageCoder\pixel_encoder\obj\Debug\pixel_encoder.exe
+C:\Dropbox\_PROJECTS\ImageCoder\pixel_encoder\obj\Debug\pixel_encoder.pdb
